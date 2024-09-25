@@ -1,7 +1,8 @@
 **Police Incident Data Processing and Analysis**
 
 This repository contains a series of projects focused on processing and analyzing police incident data from the Norman Police Department. The projects progressively build upon each other, adding more sophisticated data processing and analysis techniques.
-Projects
+
+**Projects**
 
 **1) Incident Data Extraction (assignment0)**
 
